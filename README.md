@@ -1,27 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sathya narayan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sathya Narayan</h1>
+<h3 align="center">Ex-founder turned builder · Python · AI agents · n8n automation</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathyanarayan2331" alt="sathyanarayan2331" /></a> </p>
-
-- 🔭 I’m currently working on **Invora**
-
-- 👯 I’m looking to collaborate on **Transactional API's**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sathyanarayan2331](https://github.com/sathyanarayan2331)
-
-- 💬 Ask me about **python,Numpy,Next.js,React,SQLalchemy and Pandas**
-
-- 📫 How to reach me **sathyanarayan4949@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sathyanarayan4949@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathyanarayan2331&show_icons=true&locale=en&layout=compact" alt="sathyanarayan2331" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathyanarayan2331&show_icons=true&locale=en" alt="sathyanarayan2331" /></p>
+I've run a business, so I know how much time small companies lose to manual, repetitive work. Now I build the tools that fix it: Python backends, AI agents and automated workflows.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathyanarayan2331&" alt="sathyanarayan2331" /></p>
+- 🚀 **Building [Invora](#)**: an AI tool that helps small businesses understand their numbers ("why did profit drop this month?")
+- ⚙️ **Learning in public**: Python, LLM agents (LangChain / LangGraph) and workflow automation with **n8n**
+- 🤝 **Open to collaborate on** transactional APIs, automation and AI tools for SMEs
+- 💬 **Ask me about** Python, Pandas, NumPy, SQLAlchemy, React and Next.js
+
+---
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sqlite,js,ts,react,nextjs,vue,tailwind,html,css,git&perline=14" alt="Tech stack"/>
+</p>
+
+**Currently learning:**
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
+
+---
+
+### What I'm building
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Invora** | AI insights on small-business transactions | Python, LLM APIs, n8n |
+| **Portfolio contact API** | Contact form backend with automated notifications | FastAPI, n8n webhooks |
+| **Build-log API** | Powers the live "Now" section of my portfolio | FastAPI, SQLite |
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sathyanarayan2331&theme=default&hide_border=true" alt="GitHub streak"/>
+</p>
